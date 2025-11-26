@@ -180,13 +180,13 @@ export default function Contact() {
                     },
                     {
                       Icon: IoLogoLinkedin,
-                      link: "https://linkedin.com/in/your-link",
+                      link: "https://www.linkedin.com/in/mayur-borse-88b802367/",
                     },
                     {
                       Icon: IoLogoTwitter,
                       link: "https://twitter.com/your-link",
                     },
-                    { Icon: BsGithub, link: "https://github.com/your-link" },
+                    { Icon: BsGithub, link: "https://github.com/Mayur111-code" },
                   ].map(({ Icon, link }, index) => (
                     <motion.a
                       key={index}
